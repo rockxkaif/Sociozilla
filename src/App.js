@@ -6,5 +6,4 @@ import Register from "./pages/register/Register";
 function App() {
   return <Profile/>;
 }
-
 export default App;
