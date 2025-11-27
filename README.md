@@ -61,7 +61,7 @@ A polished, responsive social feed with authentication, posts, likes, comments, 
   <img src="https://github.com/user-attachments/assets/5bbb41da-9246-4ac8-b32a-2cce6eb83dc2" width="850" />
 </p>
 
-### **7️⃣ Chat Screen (Full Chat UI)**
+### **7️⃣ Call Screen (Full Chat UI)**
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9c4c298c-88ba-4c0d-a7ee-8e46edcd4294" width="900" />
 </p>
