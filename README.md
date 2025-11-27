@@ -34,14 +34,15 @@ A polished, responsive social feed with authentication, posts, likes, comments, 
   <img src="https://github.com/user-attachments/assets/280fd775-1b91-411f-ac4d-019da6e9fe67" width="750" />
 </p>
 
-### **2️⃣ Register Screen**
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/69d386e2-3942-4686-9b51-cd9493bb7327" width="750" />
-</p>
 
 ### **3️⃣ Main Feed (Desktop View)**
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bf1a7563-7a51-4ac8-89f7-8b7ef1fb6fbe" width="900" />
+</p>
+
+### **2️⃣ Register Screen**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/69d386e2-3942-4686-9b51-cd9493bb7327" width="750" />
 </p>
 
 ### **4️⃣ Post Example (Girl Photo Post)**
