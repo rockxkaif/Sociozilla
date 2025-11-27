@@ -29,7 +29,7 @@ A polished, responsive social feed with authentication, posts, likes, comments, 
 
 ## 🖼 Screenshots (User Flow Order)
 
-### **1️⃣ Login Screen**
+### **1️⃣ Register Screen**
 <p align="center">
   <img src="https://github.com/user-attachments/assets/280fd775-1b91-411f-ac4d-019da6e9fe67" width="750" />
 </p>
