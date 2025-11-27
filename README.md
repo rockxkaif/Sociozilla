@@ -41,6 +41,8 @@ A polished, responsive social feed with authentication, posts, likes, comments, 
   &nbsp;&nbsp;
   <img src="images/sociozilla-mobile.png" alt="Sociozilla mobile" width="220" />
 </p>
+<img width="715" height="645" alt="image" src="https://github.com/user-attachments/assets/280fd775-1b91-411f-ac4d-019da6e9fe67" />
+
 
 ---
 
