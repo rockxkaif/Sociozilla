@@ -39,6 +39,7 @@ A polished, responsive social feed with authentication, posts, likes, comments, 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bf1a7563-7a51-4ac8-89f7-8b7ef1fb6fbe" width="900" />
 </p>
+
 ### **4️⃣ Post Example (Girl Photo Post)**
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5df9a0aa-2bba-4c9b-b85e-9df1b3a08746" width="850" />
