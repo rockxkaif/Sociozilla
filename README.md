@@ -42,6 +42,18 @@ A polished, responsive social feed with authentication, posts, likes, comments, 
   <img src="images/sociozilla-mobile.png" alt="Sociozilla mobile" width="220" />
 </p>
 <img width="715" height="645" alt="image" src="https://github.com/user-attachments/assets/280fd775-1b91-411f-ac4d-019da6e9fe67" />
+<img width="960" height="660" alt="image" src="https://github.com/user-attachments/assets/bf1a7563-7a51-4ac8-89f7-8b7ef1fb6fbe" />
+<img width="790" height="630" alt="image" src="https://github.com/user-attachments/assets/5df9a0aa-2bba-4c9b-b85e-9df1b3a08746" />
+<img width="840" height="673" alt="image" src="https://github.com/user-attachments/assets/5bbb41da-9246-4ac8-b32a-2cce6eb83dc2" />
+<img width="733" height="615" alt="image" src="https://github.com/user-attachments/assets/69d386e2-3942-4686-9b51-cd9493bb7327" />
+<img width="1110" height="655" alt="image" src="https://github.com/user-attachments/assets/9c4c298c-88ba-4c0d-a7ee-8e46edcd4294" />
+<img width="255" height="518" alt="image" src="https://github.com/user-attachments/assets/cf86c7fc-901a-4a38-86c9-c0d0262692ff" />
+<img width="365" height="525" alt="image" src="https://github.com/user-attachments/assets/7752b9df-3cb2-4f78-867d-8dcabdb4d9d4" />
+
+
+
+
+
 
 
 ---
