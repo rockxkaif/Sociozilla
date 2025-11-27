@@ -35,22 +35,23 @@ A polished, responsive social feed with authentication, posts, likes, comments, 
 </p>
 
 
-### **3️⃣ Main Feed (Desktop View)**
+### **3️⃣ Login Feed (Desktop View)**
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bf1a7563-7a51-4ac8-89f7-8b7ef1fb6fbe" width="900" />
 </p>
-
-### **2️⃣ Register Screen**
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/69d386e2-3942-4686-9b51-cd9493bb7327" width="750" />
-</p>
-
 ### **4️⃣ Post Example (Girl Photo Post)**
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5df9a0aa-2bba-4c9b-b85e-9df1b3a08746" width="850" />
 </p>
 
-### **5️⃣ Post Example (Lego Fight Post)**
+### **2️⃣ Chat**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/69d386e2-3942-4686-9b51-cd9493bb7327" width="750" />
+</p>
+
+
+
+### **5️⃣ Main Feed (Lego Fight Post)**
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5bbb41da-9246-4ac8-b32a-2cce6eb83dc2" width="850" />
 </p>
